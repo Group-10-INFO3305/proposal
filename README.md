@@ -1,13 +1,21 @@
 Project Proposal
+
 Group 10
 
 Topic: Online Ordering Web Application for Mahallah Asiah's Cafeteria
+
 Subject: INFO 3305: Web Application Development
+
 Section: 1
+
 Lecturer: Dr. Marini Binti Othman
+
 Group Members:
+
 1) Wan Nor Shafiqah -Leader
+
 2) Nurul Syahirah Syahmi Binti Mhd Azhar (1919070)
+
 3) 
 
 a) Introduction (sya)
