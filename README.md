@@ -56,6 +56,7 @@ c) Features and Functionality
 
 d) Views, Controllers, Routes, Models, ERD
 
+![erd](https://user-images.githubusercontent.com/82049887/116819017-ca2d1000-aba0-11eb-9bc4-f2237d172c81.JPG)
 
 e) References
 
