@@ -14,7 +14,7 @@ Group Members:
 
 
 
-a) Introduction (sya)
+a) Introduction 
 
 As we all know, the world is currently going through a global pandemic known as COVID-19. COVID-19 is an infectious disease caused by a newly discovered coronavirus. 
 The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes. Hence, it is important
@@ -24,7 +24,7 @@ work flow. By browsing the menu online, customers no longer need to physically g
 the menu, they can straight away order it online and only go to the cafeteria once their order is ready. This can not only decrease the number of people in the cafeteria,
 but also save customer's time.
 
-b) Objective (sya)
+b) Objective 
 
 1)  To create a user-friendly web application where user can easily order food and beverage of their choice.
 2)  To create a web application where user can browse the menu of the day for Mahallah Asiah's cafeteria.
