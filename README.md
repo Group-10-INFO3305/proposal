@@ -4,7 +4,7 @@ Project Proposal Group 10
 
 Group Members:
 
-1) Wan Nor Shafiqah -Leader
+1) Wan Nor Shafiqah binti Wan Ali (1916262)
 
 2) Nurul Syahirah Syahmi Binti Mhd Azhar (1919070)
 
