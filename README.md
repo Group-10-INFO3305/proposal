@@ -34,10 +34,11 @@ b) Objective (sya)
 
 c) Features and Functionality
 
-1)  Register, Log In, Log Out
+1)  Register, Log In, Log Out (User Authentication)
 
     - Admins are required to register before editing the menu.
-    - Only admins can update the menu
+    - Only admins can update the menu.
+    - Implements the user authentication feature by making sure the username and password matches.
     
 2)  Menu Page
     
@@ -47,6 +48,10 @@ c) Features and Functionality
 
     - This is a page where user can order the food and beverage of choice.
     - Before ordering, user are required to enter their details such as name and phone number so that if anything happened, user can be contacted easily.
+
+4) Main/Home Page
+    
+    - User can choose to view the menu or order food.
 
 
 d) Views, Controllers, Routes, Models, ERD
