@@ -8,7 +8,7 @@ Group Members:
 
 2) Nurul Syahirah Syahmi Binti Mhd Azhar (1919070)
 
-3)
+3) Mukhammadalieva Fatina Azam kizi (1920218)
 
 
 
